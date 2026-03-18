@@ -20,7 +20,7 @@
 Systems Engineering student passionate about building robust backends, scalable architectures, and systems that actually work.  
 Based in **Bogotá, Colombia 🇨🇴**, studying at **Pontificia Universidad Javeriana**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-orduz-37863b292/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-emmanuel-orduz-chia-37863b292)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joan-orduz)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaneorduzzz@gmail.com)
 
