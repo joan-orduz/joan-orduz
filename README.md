@@ -41,8 +41,8 @@ const joan = {
   role:       "Systems Engineer & Software Developer",
   university: "Pontificia Universidad Javeriana",
   location:   "Bogotá, Colombia 🇨🇴",
-  focus:      ["Backend Development", "REST APIs", "Microservices", "Distributed Systems"],
-  currentlyLearning: ["Cloud Architecture", "DevOps", "System Design"],
+  focus:      ["Backend Development", "REST APIs", "Microservices", "Distributed Systems", "Developer Experience"],
+  currentlyLearning: ["Cloud Architecture", "DevOps", "System Design", "Frontend Development"],
   lookingFor: "Opportunities to create real impact with quality code",
 };
 ```
